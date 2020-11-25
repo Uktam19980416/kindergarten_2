@@ -1,4 +1,4 @@
-<?php 
+<?php
 function sana($date){
   switch($date){
     case '01':
@@ -36,7 +36,7 @@ function sana($date){
       break;
     case '12':
       return 'Dekabr';
-      break;                      
+      break;
   }
 }
 ?>
@@ -61,7 +61,7 @@ function sana($date){
                         </div>
                         <div class='media_info_wrapper'>
                             <div class="media_part">
-                                <div class='pic'><img src='/uploads/about/{{ $about->images }}' data-at2x='pic/bfi_thumb/348x195-Full-HD-3-304vqid57d4xo7xnjd51je@2x.jpg' alt />
+                                <div class='pic'><img src='/uploads/about/{{ $about->images }}' data-at2x='/uploads/about/{{ $about->images }}' alt />
                                     <div class='hover-effect'></div>
                                     <div class='links_popup animate'>
                                         <div class='link_cont'>
@@ -88,7 +88,7 @@ function sana($date){
                             </div>
                             <div class='meta_cont_wrapper'>
                                 <div class='meta_cont'>
-                                    <div class='button_cont'><a href="{{ route('abouts.newsfullpage', ['id' => $about->id]) }}" class='cws_button small'>Read More</a></div>
+                                    <div class='button_cont'><a href="{{ route('abouts.newsfullpage', ['id' => $about->id]) }}" class='cws_button small'>Ko'proq o'qish</a></div>
                                 </div>
                             </div>
                         </div>

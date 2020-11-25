@@ -14,7 +14,7 @@
                 </div>
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-1" data-x="30" data-y="213" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
-                    data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; white-space: nowrap;">Xush kelibsiz bizning
+                    data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; margin-right: 40px; white-space: nowrap;">Xush kelibsiz bizning
                 </div>
                 <!-- LAYER NR. 3 -->
                 <div class="tp-caption home-h1   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-2" data-x="30" data-y="275" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
@@ -42,7 +42,7 @@
                 </div>
                 <!-- LAYER NR. 9 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-9" id="slide-1-layer-6" data-x="362" data-y="181" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;"
-                    data-transform_out="opacity:0;s:300;s:300;" data-start="570" data-responsive_offset="on" style="z-index: 13;"><img src="pic/revslider/general/children.png" alt="" width="662" height="484" data-ww="662px" data-hh="484px" data-no-retina>
+                    data-transform_out="opacity:0;s:300;s:300;" data-start="570" data-responsive_offset="on" style="z-index: 13; margin-left: 20px;"><img src="pic/revslider/general/children.png" alt="" width="662" height="484" data-ww="662px" data-hh="484px" data-no-retina>
                 </div>
                 <!-- LAYER NR. 10 -->
                 <div class="tp-caption   tp-resizeme rs-parallaxlevel-8" id="slide-1-layer-9" data-x="325" data-y="132" data-width="['none','none','none','none']" data-height="['none','none','none','none']" data-transform_idle="o:1;" data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:300;e:Power2.easeInOut;"
@@ -109,7 +109,7 @@
                 </div>
                 <!-- LAYER NR. 3 -->
                 <div class="tp-caption home-h2   tp-resizeme rs-parallaxlevel-9" id="slide-2-layer-1" data-x="450" data-y="195" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"
-                    data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">Bizning maqsadimiz
+                    data-transform_out="auto:auto;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 20; white-space: nowrap;">Bizning maqsadimiz
                 </div>
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption home-h1   tp-resizeme rs-parallaxlevel-9" id="slide-2-layer-2" data-x="450" data-y="260" data-width="['auto']" data-height="['auto']" data-transform_idle="o:1;" data-transform_in="y:50px;z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;s:1500;e:Power3.easeInOut;"

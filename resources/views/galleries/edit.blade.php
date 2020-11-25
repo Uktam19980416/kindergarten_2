@@ -3,7 +3,7 @@
 @section('content')
     <section class="content-header">
         <h1>
-            Galeriya
+            Galereya
         </h1>
    </section>
    <div class="content">
@@ -24,13 +24,13 @@
                                     <label for="Title">Sarlavha</label>
                                     <input type="text" style="width: 500px;" class="form-control" id="title" name="title" value="{{ $gallery->title }}">
                                 </div>
-                            <button type="submit" class="btn btn-primary">Saqlash</button>    
+                            <button type="submit" class="btn btn-primary">Saqlash</button>
                             <a href="{{ route('galleries.index') }}" class="btn btn-default">Orqaga</a>
                         </form>
                       </div>
                       <div class="col-md-6">
                           <img src="/uploads/gallery/{{ $gallery->images }}" width="250" height="250" alt="">
-                      </div>    
+                      </div>
                   </div>
 
                 {{-- {!! Form::model($gallery, ['route' => ['galleries.update', $gallery->id], 'method' => 'patch']) !!}

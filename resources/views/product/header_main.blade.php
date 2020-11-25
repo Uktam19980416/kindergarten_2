@@ -23,7 +23,7 @@
                                     <div class="bees bees-start"><span></span>
                                         <div class="line-one"></div>
                                         <div class="line-two"></div>
-                                    </div>Menu
+                                    </div>Asosiy
                                     <div class="canvas_wrapper">
                                         <canvas class="menu_dashed"></canvas>
                                     </div>
@@ -31,7 +31,7 @@
                             </li>
                         <li class="menu-item menu-item-has-children"><a href="{{ route('about') }}">Haqimizda<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a></li>
                             <li class="menu-item menu-item-has-children"><a href="{{ route('team') }}">Jamoamiz<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a></li>
-                            <li class="menu-item menu-item-has-children right"><a href="{{ route('gallery') }}">Galeriya<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a></li>
+                            <li class="menu-item menu-item-has-children right"><a href="{{ route('gallery') }}">Galereya<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a></li>
                             <li class="menu-item menu-item-has-children right"><a href="{{ route('service') }}">Servis<div class="canvas_wrapper"><canvas class="menu_dashed"></canvas></div></a></li>
                             <li class="menu-item right bees-end">
                                 <a href="{{ route('contact') }}">

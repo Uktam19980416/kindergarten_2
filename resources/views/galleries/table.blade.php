@@ -10,7 +10,7 @@
         <tbody>
         @foreach($galleries as $gallery)
             <tr>
-                <td><img src="/uploads/gallery/{{ $gallery->images }}" width="100" height="100" alt="{{ $gallery->images }}"></td>
+                <td><img src="/uploads/gallery/{{ $gallery->images }}" width="100" alt="{{ $gallery->images }}"></td>
                 <td>{{ $gallery->title }}</td>
                 <td>
                     {!! Form::open(['route' => ['galleries.destroy', $gallery->id], 'method' => 'delete']) !!}

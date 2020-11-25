@@ -1,5 +1,5 @@
 @extends('layouts.section')
-<?php 
+<?php
 function sana($date){
   switch($date){
     case '01':
@@ -37,7 +37,7 @@ function sana($date){
       break;
     case '12':
       return 'Dekabr';
-      break;                      
+      break;
   }
 }
 ?>
@@ -101,13 +101,12 @@ function sana($date){
                                             <div class='meta_cont_wrapper'>
                                                 <div class='meta_cont'>
                                                     <div class="post_info">
-                                                        <div class='date_default'><i class='fa fa-calendar'></i> 
+                                                        <div class='date_default'><i class='fa fa-calendar'></i>
                                                             <span class='day'>{{ $news->updated_at->format('d') }}</span>
                                                             <span class='month' title='July'>
                                                             <span><?=sana($news->updated_at->format('m'))?></span></span>
                                                             <span class='year'>{{ $news->updated_at->format('Y') }}</span>
                                                         </div>
-                                                        <div class='post_categories'><i class='fa fa-bookmark'></i><a href="https://shutterstock.com" target="_blank" rel="category tag">Image posts</a><span class="v_sep"></span><a href="https://pinterest.com" target="_blank" rel="category tag">Pinterest</a></div>
                                                     </div>
                                                 </div>
                                             </div>

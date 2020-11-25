@@ -19,7 +19,19 @@
                     <div class='left-pattern pattern pattern-2'></div>
                     <!-- main content -->
                     <main>
-                        @include('foreach_files.team_teachers')
+                        <!-- staff filtered -->
+                    <div class='grid_row clearfix'>
+                        <section class='cws_ourteam'>
+                            <!-- filter items -->
+                            <div class='cws_wrapper'>
+                                <div class='cws_ourteam_items grid grid-4 isotope'>
+                                    @include('foreach_files.team_teachers')
+                                </div>
+                            </div>
+                            <!-- / filter item -->
+                        </section>
+                    </div>
+                    <!-- / staff filtered -->
                         <!-- testimonials -->
                         <div class='grid_row clearfix'>
                             <div class='grid_col grid_col_12'>
@@ -39,7 +51,7 @@
                                         <div class="testimonial clearfix">
                                             <div class='quote'>Bu maktabgacha ta'lim muassasasida ta'lim olayotgan har bir bolajonlarga malakali o'qituvchilar tomonidan e'tibor qaratiladi.</div>
                                             <figure class='author'>
-                                                <div class='dott'><span>.</span><span>.</span><span>.</span></div><img src='pic/bfi_thumb/teacher-1.jpg' data-at2x='pic/bfi_thumb/teacher-1@2x.jpg' alt />
+                                                <div class='dott'><span>.</span><span>.</span><span>.</span></div><img src='pic/bfi_thumb/teacher-1.jpg' data-at2x='pic/bfi_thumb/teacher-1.jpg' alt />
                                                 <figcaption>Zebiniso Qurbonova</figcaption>
                                             </figure>
                                         </div>
@@ -52,7 +64,7 @@
                                         <div class="testimonial clearfix">
                                             <div class='quote'>Har bir bolan o'z qobiliyatiga ega. Bu MTM da oliy toifali mudiralar bolalarga o'z qobiliyatlarini rivojlantira olishlariga ko'maklashadilar.</div>
                                             <figure class='author'>
-                                                <div class='dott'><span>.</span><span>.</span><span>.</span></div><img src='pic/bfi_thumb/teacher-6.jpg' data-at2x='pic/bfi_thumb/teacher-6@2x.jpg' alt />
+                                                <div class='dott'><span>.</span><span>.</span><span>.</span></div><img src='pic/bfi_thumb/teacher-6.jpg' data-at2x='pic/bfi_thumb/teacher-6.jpg' alt />
                                                 <figcaption>Diyora Niyozova</figcaption>
                                             </figure>
                                         </div>

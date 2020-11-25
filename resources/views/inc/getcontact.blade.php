@@ -1,16 +1,16 @@
 <form action="/stores" method="post">
     @csrf
-    <p>Ism-familiyangiz<span style="color: red">*</span>
+    <p>&nbsp;&nbsp;Ism-familiyangiz<span style="color: red;">*</span>
         <br />
         <span class="cf-form-control-wrap your-name">
             <input type="text" name="name" value="" size="107" class="cf-form-control cf-text " />
-        </span> 
-    <p>Emailingiz<span style="color: red">*</span>
+        </span></p>
+    <p>&nbsp;&nbsp;Emailingiz<span style="color: red">*</span>
         <br />
         <span class="cf-form-control-wrap your-email">
             <input type="email" name="email" value="" size="107" class="cf-form-control cf-text cf-email" />
         </span> </p>
-    <p>Xabar
+    <p>&nbsp;&nbsp;Xabar
         <br />
         <span class="cf-form-control-wrap your-message">
             <textarea name="message" cols="107" rows="8" class="cf-form-control cf-textarea"></textarea>

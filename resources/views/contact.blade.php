@@ -29,7 +29,7 @@
                             <h3 class="ce_title">Bog'chamizni xaritada ko'ring</h3>
                             <div class="map-border">
                                 <div class="google-map">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d32753.729529237073!2d60.727833734533164!3d41.679948060778976!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBeruniy%203%20Matlubot!5e0!3m2!1suz!2s!4v1596113515436!5m2!1suz!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.0756187563397!2d69.229072!3d41.328969!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDE5JzQ0LjMiTiA2OcKwMTMnNDQuNyJF!5e0!3m2!1suz!2s!4v1602673279180!5m2!1suz!2s" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                                 </div>
                             </div>
                         </div>
@@ -101,7 +101,7 @@
                                     <div class='cws_fa_tbl_row'>
                                         <div class='cws_fa_tbl_cell'></div>
                                         <div class='cws_fa_tbl_cell'>
-                                            <p><a href="mailto:mail@mail.com"> www.248MTT@mail.com</a>
+                                            <p><a href="mailto:mail@mail.com"> 248MTT@mail.ru</a>
                                                 <br />
                                         </div>
                                     </div>
@@ -110,7 +110,7 @@
                         </div>
                     </div>
                     <!-- / contact detail -->
-                        
+
                     <!-- contact form -->
                     <div class='grid_col grid_col_8'>
                         <div class='ce clearfix'>

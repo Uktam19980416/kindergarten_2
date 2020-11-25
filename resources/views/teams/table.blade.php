@@ -11,7 +11,7 @@
         <tbody>
         @foreach($teams as $team)
             <tr>
-                <td><img src="/uploads/team/{{ $team->images }}" width="100" height="100" alt="{{ $team->images }}"></td>
+                <td><img src="/uploads/team/{{ $team->images }}" width="100" alt="{{ $team->images }}"></td>
                 <td>{{ $team->name }}</td>
                 <td>{{ $team->job }}</td>
                 <td>

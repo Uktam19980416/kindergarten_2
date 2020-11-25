@@ -3,7 +3,7 @@
 @section('content')
     <section class="content-header">
         <h1>
-            Gallery
+            Galereya
         </h1>
     </section>
     <div class="content">
@@ -22,9 +22,9 @@
                                     <label for="Title">Sarlavha</label>
                                     <input type="text" style="width: 500px;" class="form-control" id="title" name="title" value="{{ old('title') }}">
                                 </div>
-                            <button type="submit" class="btn btn-primary">Saqlash</button>    
+                            <button type="submit" class="btn btn-primary">Saqlash</button>
                             <a href="{{ route('galleries.index') }}" class="btn btn-default">Orqaga</a>
-                        </form>    
+                        </form>
                     </div>
                     {{-- {!! Form::open(['route' => 'galleries.store']) !!}
 
